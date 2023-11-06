@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 180px;
+  width: 180px;
+}

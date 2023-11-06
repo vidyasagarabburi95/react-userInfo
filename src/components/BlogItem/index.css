@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.title-publication {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+}
+h1 {
+  font-size: 26px;
+  color: #12022f;
+}
+p {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+.description {
+  color: #616e7c;
+  font-size: 20px;
+}
